@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Updates>
+	<ApplicationName>download</ApplicationName>
+	<FileList>
+		<File name="LMM免费版_全自动综合V4.16.2_.exe" dir="" md5="8D1F0B15B3293974065FAFDF9FC478AB"/>
+	</FileList>
+	<PackageUpdate>
+		<Name>LMM_全自动领徒</Name>
+		<DisplayName>LMM_全自动领徒</DisplayName>
+		<ReleaseDate>2019-1-6</ReleaseDate>
+		<DownloadUrl>https://raw.githubusercontent.com/CoxxA/lmm/master</DownloadUrl>
+		<SpareUrl>http://pan.baidu.com/s/1o8IURpC</SpareUrl>
+	</PackageUpdate>
+</Updates>
