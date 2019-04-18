@@ -3,6 +3,7 @@
 	<ApplicationName>LMM_ZH</ApplicationName>
 	<FileList>
 		<File name="LMM免费版_全自动综合V4.16.2_.exe" dir="" md5="8D1F0B15B3293974065FAFDF9FC478AB"/>
+		<File name="dm7.dll" dir="%SystemRoot%\LMM" md5="8EB60F8562EC4B9D46D4F36F525BB10309ED104A"/>
 	</FileList>
 	<PackageUpdate>
 		<Name>LMM_全自动领徒</Name>
