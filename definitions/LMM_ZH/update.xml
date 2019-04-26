@@ -2,13 +2,13 @@
 <Updates>
 	<ApplicationName>LMM_ZH</ApplicationName>
 	<FileList>
-		<File name="LMM免费版_全自动综合V4.16.2_.exe" dir="" md5="8D1F0B15B3293974065FAFDF9FC478AB"/>
+		<File name="LMM免费版_全自动综合V4.16.2_.exe" dir="" sha1="E48D5FCA79FFB6837691E654A7F245CF6B63EE23" size="456"/>
 	</FileList>
 	<PackageUpdate>
 		<Name>LMM_全自动领徒</Name>
 		<DisplayName>LMM_全自动领徒</DisplayName>
 		<ReleaseDate>2019-1-6</ReleaseDate>
-		<DownloadUrl></DownloadUrl>
+		<DownloadUrl>https://raw.githubusercontent.com/CoxxA/lmm/master/download</DownloadUrl>
 		<SpareUrl>http://pan.baidu.com/s/1o8IURpC</SpareUrl>
 		<ShowUrl>http://whatsnew.cq.im/product-ui/cqp</ShowUrl>
 	</PackageUpdate>
