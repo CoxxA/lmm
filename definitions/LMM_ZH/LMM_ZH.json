@@ -1,5 +1,5 @@
 {
-    "applicationName": "LMM_ÁìÍ½",
+    "applicationName": "LMM_é¢†å¾’",
     "fileList": [
         {
             "dir": "abc",
@@ -15,9 +15,9 @@
         }
     ],
     "packageUpdate": {
-        "displayName": "LMM_È«×Ô¶¯ÁìÍ½",
+        "displayName": "LMM_å…¨è‡ªåŠ¨é¢†å¾’",
         "downloadUrl": "http://dldir1.qq.com/weixin",
-        "name": "LMM_È«×Ô¶¯ÁìÍ½",
+        "name": "LMM_å…¨è‡ªåŠ¨é¢†å¾’",
         "releaseDate": "2019-05-03",
         "showUrl": "http://whatsnew.cq.im/product-ui/cqp",
         "spareUrl": "http://pan.baidu.com/s/1o8IURpC"
