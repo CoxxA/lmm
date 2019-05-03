@@ -1,0 +1,19 @@
+{
+    "applicationName": "LMM_领徒",
+    "fileList": [
+        {
+            "dir": "",
+            "name": "LMM免费版_全自动综合V4.16.2_.exe",
+            "sha1": "E48D5FCA79FFB6837691E654A7F245CF6B63EE23",
+            "size": 10346496
+        }
+    ],
+    "packageUpdate": {
+        "displayName": "LMM_全自动领徒",
+        "downloadUrl": "https://raw.githubusercontent.com/CoxxA/lmm/master/download",
+        "name": "LMM_全自动领徒",
+        "releaseDate": "2019-05-03",
+        "showUrl": "http://whatsnew.cq.im/product-ui/cqp",
+        "spareUrl": "http://pan.baidu.com/s/1o8IURpC"
+    }
+}

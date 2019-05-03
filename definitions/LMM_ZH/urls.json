@@ -1,0 +1,6 @@
+{
+    "urls": [
+        "https://raw.githubusercontent.com/CoxxA/lmm/master/definitions/Debug.json",
+        "https://raw.githubusercontent.com/CoxxA/lmm/master/definitions/Release.json"
+    ]
+}
