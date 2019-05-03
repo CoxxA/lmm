@@ -1,5 +1,5 @@
 {
-    "applicationName": "LMM_领徒",
+    "applicationName": "LMM_ZH",
     "fileList": [
         {
             "dir": "",
@@ -9,9 +9,9 @@
         }
     ],
     "packageUpdate": {
-        "displayName": "LMM_全自动领徒",
+        "displayName": "LMM_全自动综合",
         "downloadUrl": "https://raw.githubusercontent.com/CoxxA/lmm/master/download",
-        "name": "LMM_全自动领徒",
+        "name": "LMM_全自动综合",
         "releaseDate": "2019-05-03",
         "showUrl": "http://whatsnew.cq.im/product-ui/cqp",
         "spareUrl": "http://pan.baidu.com/s/1o8IURpC"
